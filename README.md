@@ -56,7 +56,7 @@ Navigate to the desired project folder and execute the main Python file. For exa
 
 ```bash
 cd project_1
-python main.py
+python3 tests.py
 ```
 
 ## Projects
